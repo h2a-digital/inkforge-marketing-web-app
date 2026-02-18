@@ -1,19 +1,26 @@
 export const faq = [
   {
-    q: 'What does InkForge cost?',
-    a: 'Pricing depends on your plan and is always shown clearly in the app before you start generating.',
+    q: 'How much does InkForge cost?',
+    a: 'Pricing varies by plan and is shown in the app before you start a generation.',
   },
   {
-    q: 'What should I include in my prompt?',
-    a: 'Mention tattoo style, subject, mood, and placement ideas. Specific prompts usually produce better first-pass results.',
+    q: 'What makes a good prompt?',
+    a: 'Be specific: describe the tattoo style (blackwork, fine-line, neo-traditional), the subject, mood, and your intended placement. The more precise your prompt, the stronger the first result.',
   },
   {
-    q: 'Can I try tattoos on my own photos?',
-    a: 'Yes. In the Result screen you can use Try On to overlay designs on a photo and evaluate size and placement.',
+    q: 'Can I preview designs on my own body?',
+    a: 'Yes. From any Result screen, tap Try On to overlay the design on a photo — adjust scale and position to evaluate real-world placement before you commit.',
   },
   {
-    q: 'Are my generations saved?',
-    a: 'Yes. InkForge keeps your generated designs in history/gallery so you can revisit, compare, and export later.',
+    q: 'Are my generations saved automatically?',
+    a: 'Every design is stored in your History. You can revisit, compare concepts side by side, and export your favourites at any time.',
   },
-  { q: 'How do I get support?', a: 'Email support@h2adigital.com and we will help you quickly.' },
+  {
+    q: 'What file formats can I export?',
+    a: 'InkForge exports high-quality image files ready to share directly with your tattoo artist or save to your camera roll.',
+  },
+  {
+    q: 'How do I get help?',
+    a: 'Email support@h2adigital.com and we will reply promptly. You can also use the contact form below.',
+  },
 ];

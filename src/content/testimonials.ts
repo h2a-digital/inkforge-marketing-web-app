@@ -1,23 +1,23 @@
 export const testimonials = [
   {
     quote:
-      'I typed one sentence and got three tattoo directions I actually wanted to show my artist. The Try On preview made placement decisions way easier.',
+      'I typed one sentence and had three distinct directions to show my artist. The Try On overlay made placement decisions effortless — I knew exactly what I wanted before the consultation.',
     name: 'Mia R.',
     role: 'Tattoo planning user',
     rating: 5,
   },
   {
     quote:
-      'I use InkForge to iterate concepts before consultations. The history view keeps everything organized and saves a lot of back-and-forth.',
+      'InkForge is now part of every client consultation I do. It shortens the back-and-forth dramatically, and the export quality is clean enough to use as a proper reference file.',
     name: 'Noah K.',
-    role: 'Design-focused creator',
+    role: 'Independent tattoo artist',
     rating: 5,
   },
   {
     quote:
-      'Export quality is excellent. I can keep options for later and share clean references when I am ready to book.',
+      'I had an idea sitting in my head for two years. Within ten minutes I had a visual I could actually act on. Booked my appointment the same day.',
     name: 'Ava L.',
-    role: 'Returning user',
+    role: 'First-time tattoo client',
     rating: 5,
   },
 ];

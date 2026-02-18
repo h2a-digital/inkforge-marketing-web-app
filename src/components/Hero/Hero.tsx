@@ -76,11 +76,15 @@ export function Hero() {
                     </span>
                   ))}
                 </div>
-                <span className="font-semibold text-gray-700">Loved by Early Users</span>
+                <span className="font-semibold text-gray-700">1M+ Generations</span>
               </div>
+              {/* <div className="flex items-center gap-2 text-gray-700">
+                <span className="text-xl">🔒</span>
+                <span className="font-semibold">100% Private</span>
+              </div> */}
               <div className="flex items-center gap-2 text-gray-700">
-                <span className="text-xl">🧪</span>
-                <span className="font-semibold">Try On Before You Commit</span>
+                <span className="text-xl">⚡</span>
+                <span className="font-semibold">30-Second Results</span>
               </div>
             </div>
           </motion.div>

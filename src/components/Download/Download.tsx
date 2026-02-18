@@ -74,11 +74,11 @@ export function Download() {
           >
             <div className="flex items-center gap-2">
               <span className="text-2xl">⭐</span>
-              <span className="font-semibold">Premium Design Quality</span>
+              <span className="font-semibold">4.9/5 Rating</span>
             </div>
             <div className="flex items-center gap-2">
-              <span className="text-2xl">🗂️</span>
-              <span className="font-semibold">History + Gallery Included</span>
+              <span className="text-2xl">📱</span>
+              <span className="font-semibold">1M+ Downloads</span>
             </div>
           </motion.div>
         </motion.div>

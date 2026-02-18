@@ -1,26 +1,26 @@
 export const how = [
   {
     number: 1,
-    title: 'Describe Your Tattoo',
+    title: 'Describe Your Vision',
     description:
-      'Write a short prompt with your preferred style, subject, and placement direction. Add any must-have details.',
+      'Write a prompt with your preferred style, subject, and placement ideas. Specific details produce sharper first results.',
   },
   {
     number: 2,
-    title: 'Generate Variations',
+    title: 'Generate Concepts',
     description:
-      'InkForge creates custom tattoo concepts in seconds so you can explore different artistic directions quickly.',
+      'InkForge creates custom tattoo designs in seconds.',
   },
   {
     number: 3,
-    title: 'Try On in Result View',
+    title: 'Preview with Try On',
     description:
-      'Open a design and preview it on your photo with overlay controls to evaluate real-world placement and proportions.',
+      'Overlay any design on a body photo to evaluate scale and placement in real context — before any ink touches skin.',
   },
   {
     number: 4,
-    title: 'Save, Organize, Export',
+    title: 'Save & Share',
     description:
-      'Keep the strongest ideas in your gallery/history and export files to share with your tattoo artist when you are ready.',
+      'Organise favourites in your gallery, build a visual brief over time, and export clean references to share with your artist.',
   },
 ];

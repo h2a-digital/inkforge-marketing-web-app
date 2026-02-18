@@ -3,30 +3,30 @@ export const features = [
     icon: '✍️',
     title: 'Prompt-Driven Creation',
     description:
-      'Describe your style, subject, and placement ideas in plain language. InkForge transforms your prompt into tattoo-ready concepts.',
+      'Describe your style, subject, mood, and placement in plain language. InkForge turns your words into tattoo-ready concepts without any design experience required.',
   },
   {
     icon: '🖤',
-    title: 'Style-Aware AI',
+    title: 'Style-Aware Generation',
     description:
-      'Generate linework, blackwork, neo-traditional, fine-line, and more while keeping details consistent with your visual direction.',
+      'Fine-line, blackwork, neo-traditional, geometric — the AI understands tattoo aesthetics and keeps your artistic direction consistent across every variation.',
   },
   {
     icon: '🧪',
     title: 'Try On Preview',
     description:
-      'Open any result and overlay the tattoo on a body photo to preview scale, placement, and overall vibe before committing.',
+      'Overlay any design on a body photo directly from the Result screen. Evaluate scale, proportion, and placement in context before you ever step into a studio.',
   },
   {
     icon: '🗂️',
-    title: 'Design History & Gallery',
+    title: 'History & Gallery',
     description:
-      'Every generation is organized in your history so you can compare versions, revisit favorites, and continue iterating.',
+      'Every generation is automatically saved and organised. Compare variations side by side, revisit past ideas, and build a visual brief over time.',
   },
   {
     icon: '📤',
-    title: 'Export Ready',
+    title: 'Export-Ready References',
     description:
-      'Save and share high-quality tattoo concepts with artists, collaborators, or your future self in a single tap.',
+      'Share high-quality files with your artist in one tap. No screenshots, no cropping — just a clean reference that communicates your vision precisely.',
   },
 ];
