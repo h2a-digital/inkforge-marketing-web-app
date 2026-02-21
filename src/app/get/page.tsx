@@ -61,7 +61,7 @@ export default function DownloadPage() {
       <main className="flex min-h-screen flex-col items-center justify-center bg-[#F5F5F7] px-4 py-24 sm:px-6 lg:px-8">
         <div className="w-full max-w-md">
           <div className="mb-8 flex justify-center">
-            <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-black shadow-lg">
+            <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-white shadow-lg">
               <Image
                 src={'/images/icon.png'}
                 alt={`${site.app.name} logo`}
@@ -161,7 +161,7 @@ export default function DownloadPage() {
       <main className="flex min-h-screen flex-col items-center justify-center bg-[#F5F5F7] px-4 py-24">
         <div className="w-full max-w-3xl">
           <div className="mb-8 flex justify-center">
-            <div className="flex h-24 w-24 items-center justify-center rounded-2xl bg-black shadow-lg">
+            <div className="flex h-24 w-24 items-center justify-center rounded-2xl bg-white shadow-lg">
               <Image
                 src={'/images/icon.png'}
                 alt={`${site.app.name} logo`}
